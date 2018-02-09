@@ -1,0 +1,2 @@
+# Spark Slave Docker Image
+
