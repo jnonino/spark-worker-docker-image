@@ -1,5 +1,5 @@
 FROM jnonino/spark-base
-LABEL maintainer="Julian Nonino <noninojulian@outlook.com>"
+LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 # Spark Worker Port
 ENV SPARK_WORKER_PORT 7078
