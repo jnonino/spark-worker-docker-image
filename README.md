@@ -1,4 +1,4 @@
-# Spark Worker Docker Image
+# Spark Worker Docker Image [![Docker hub](https://img.shields.io/docker/pulls/jnonino/spark-worker.svg)](https://hub.docker.com/r/jnonino/spark-worker/)
 
 https://hub.docker.com/r/jnonino/spark-worker-docker-image
 
